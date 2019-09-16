@@ -10,6 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+           int i= 0;
+            if(i==0)
+            {
+                i++;
+            }
+
         }
     }
 }
