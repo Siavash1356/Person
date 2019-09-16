@@ -10,10 +10,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           int i= 0;
-            if(i==0)
+            int i = 0;
+            if (i == 0)
             {
                 i++;
+
+            }
+            if (i == 1)
+            {
+                System.Console.WriteLine(i);
             }
 
         }
